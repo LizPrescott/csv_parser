@@ -9,4 +9,4 @@ If I took more time with this exercise, I would:
 - Finish the rest of the columns
 - Refactor my methods to separate their concerns (ideally, one each)
 - Make this a reusable class
-- Create a new_file method that would create a revised CSV from the data created by my parser method
+- Create a new_file method that would create a revised CSV file from the data created by my parser method
